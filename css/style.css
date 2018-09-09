@@ -437,6 +437,7 @@ a:hover {
 .content-features {
 	text-align: center;
 	height: 430px;
+	width: 100%;
 background: url(../images/content-bg.png) no-repeat;
 margin-top: 45px;
 }
